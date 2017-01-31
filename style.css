@@ -44,7 +44,7 @@ body {
 /* The header contains the summary */
 
 header.summary-container-big {
-    height:750px;
+    height:100vh;
     position: relative;
     min-height: 50px;
     width:100%;
